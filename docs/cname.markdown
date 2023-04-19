@@ -1,4 +1,4 @@
 ---
 layout: static
 ---
-southwest-js.github.io
+southwest.js.org
