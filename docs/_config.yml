@@ -23,8 +23,8 @@ title: South West JS
 description: >- # this means to ignore newlines until "baseurl:"
   JavaScript Developer technical meetup
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: southwest.github.io
-url: "https://southwest.js.org" # the base hostname & protocol for your site, e.g. http://example.com
+domain: south-west-js.github.io
+url: "https://south-west-js.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username: South-West-JS
 
